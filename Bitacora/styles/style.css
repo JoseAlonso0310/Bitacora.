@@ -1,0 +1,19 @@
+p{
+    color:rgb(2, 134, 24);
+}
+h1 { 
+    font-size:30px; 
+    color:rgb(0, 0, 0);
+} 
+p,li { 
+    font-size: 16px; 
+    line-height:2; 
+    letter-spacing: 1px; 
+    color:rgb(12, 3, 148);
+}
+html{ 
+
+    font-size:10px;/*px quiere decir"pixeles":el tamaño de la fuente base es ahora de 10 pixeles de altura*/ 
+    font-family:"Open Sans",sans-serif;/*Este debe ser el resto del resultado que obtuviste de google fonts*/ 
+
+} 
